@@ -1,0 +1,6 @@
+-lib heaps
+-lib hlsdl
+-hl output.hl
+# -js hello.js
+-main Main
+-D windowSize=800x600
